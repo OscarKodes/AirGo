@@ -1,4 +1,4 @@
-/* TAG SELECTORS */
+n/* TAG SELECTORS */
 body {
   text-align: center;
   font-family: 'Work Sans', sans-serif;
@@ -109,7 +109,7 @@ hr {
   }
 
   .big-text {
-    text-align: left;
+    text-align: center;
     font-size: 6rem;
   }
 }
