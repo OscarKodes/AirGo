@@ -1,4 +1,4 @@
-n/* TAG SELECTORS */
+/* TAG SELECTORS */
 body {
   text-align: center;
   font-family: 'Work Sans', sans-serif;
@@ -100,8 +100,8 @@ hr {
     position: static;
     transform: none;
     margin-top: 1rem;
+    margin-left: 1.65rem;
     width: 40rem;
-    text-align: center;
   }
 
   #title .container-fluid {
