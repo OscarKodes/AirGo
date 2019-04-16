@@ -101,6 +101,7 @@ hr {
     transform: none;
     margin-top: 1rem;
     width: 40rem;
+    text-align: center;
   }
 
   #title .container-fluid {
