@@ -1,4 +1,4 @@
 # AirGo
 This is a website created for practice.
 
-HTML, CSS, and Bootstrap.
+HTML, CSS, and Bootstrap are used.
