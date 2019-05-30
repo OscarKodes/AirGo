@@ -1,2 +1,3 @@
 # AirGo
-HTML, CSS, Bootstrap Practice
+This is a website created for practice.
+HTML, CSS, and Bootstrap.
